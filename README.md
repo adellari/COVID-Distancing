@@ -6,7 +6,7 @@ App to help users efficiently find and get to medical help relating to Coronovir
 
 ## iOS App
 
-| <img src="https://adellari.github.io/covid/Device-natives/iOS/screenshots/iphone11.png">       | <img src="https://adellari.github.io/covid/Device-natives/iOS/screenshots/IMG-1090.PNG">         | <img src="https://adellari.github.io/covid/Device-natives/iOS/screenshots/IMG-1091.PNG">  | <img src="https://adellari.github.io/covid/Device-natives/iOS/screenshots/IMG-1088.PNG">  | <img src="https://adellari.github.io/covid/Device-natives/iOS/screenshots/IMG-1089.PNG">  |
+| <img src="https://adellari.github.io/covid/Device-natives/iOS/screenshots/iphone11.png">       | <img src="https://adellari.github.io/covid/Device-natives/iOS/screenshots/IMG-1090.PNG">         | <img src="https://adellari.github.io/covid/Device-natives/iOS/screenshots/IMG-1091.PNG">  | <img src="https://adellari.github.io/covid/Device-natives/iOS/screenshots/iphone11-1.png">  | <img src="https://adellari.github.io/covid/Device-natives/iOS/screenshots/IMG-1089.PNG">  |
 | :-------------: |:-------------:| :-----:|:-----:|:-----:|
 | Landing Page    | Care Results  | Care Details | COVID Testing Results | COVID Testing Map |
 
