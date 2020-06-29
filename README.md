@@ -11,7 +11,7 @@ App to help users efficiently find and get to medical help relating to Coronovir
 | Landing Page    | Care Results  | Care Details | COVID Testing Results | COVID Testing Map |
 
 
-This app was developed (almost) entirely in Python using PyUI and Pythonista on iOS. It runs locally on the user's device, serving information using a number of structured API calls rather than relying on a remote server to retrieve and return information. For technical details on how this information is retrieved and processed, as well as more info about our data collection and structuring techniques, [see here](docs/dataStructures.md).
+This app was developed (almost) entirely in SwiftUI. It runs locally on the user's device, serving information using a number of structured API calls rather than relying on a remote server to retrieve and return information. For technical details on how this information is retrieved and processed, as well as more info about our data collection and structuring techniques, [see here](docs/dataStructures.md).
 
 ## Action Items (more info on the [project board](https://github.com/orgs/gw-innovation-lab/projects/1))
  * ~~Baseline proof of concept~~
